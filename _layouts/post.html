@@ -19,7 +19,7 @@ layout: default
           </span>
           {{ page.categories }}
         </li>
-      </ul>      
+      </ul>
     </div>
     <ul class="pagination">
       {% if page.previous.url %}
@@ -43,5 +43,7 @@ layout: default
 <article>
   <div class="container">
     {{ content }}
+
+    {% include footer.html %}
   </div>
 </article>
