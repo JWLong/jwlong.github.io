@@ -19,3 +19,5 @@ I was born way up north. It was cold. And I didn't have much fat, so I moved fur
 On occasion, I think a thought that seems pretty clever. Sometimes I'll tweet that thought using [@CaffeineMoose](https://twitter.com/CaffeineMoose), but tweeting is hard when you don't have opposable thumbs, so usually I just wait until I have several clever thoughts, and pretend like they were meant to be an essay.
 
 There are dozens of prominent moose essayists, though, so if you're here, you're probably more curious about the novelty of the Moose Rubyist. You can take a look at my [github account](https://github.com/caffeinatedmoose), to make sure that I'm not just like that monkey that learned enough ASL to indicate that it was hungry.
+
+And that's pretty much it. As introductions go, I suppose that's good enough. Stick around and I'll tell you about my work with web development.
