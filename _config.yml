@@ -1,6 +1,7 @@
 # Site settings
 title: 'caffeinatedmoo.se' # Your Title
-tagline: 'wut' # A brief tagline for your site
+tagline: 'well-crafted code and other moose topics' # A brief tagline for your site
+permalink: none
 
 # Build settings
 markdown: redcarpet
