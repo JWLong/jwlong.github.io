@@ -1,9 +1,7 @@
 # Site settings
-title: 'Strange Case' # Your Title
-tagline: 'Twisted tales to make you shudder' # A brief tagline for your site
-sidebar_image: /images/cover.jpg
+title: 'caffeinatedmoo.se' # Your Title
+tagline: 'wut' # A brief tagline for your site
 
 # Build settings
 markdown: redcarpet
 highlighter: pygments
-# the subpath of your site, e.g. /blog/

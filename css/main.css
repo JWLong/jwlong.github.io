@@ -16,7 +16,7 @@ body {
   font-family: 'Bitter', serif;
   font-size: 16px;
   line-height: 28px;
-  color: #222;
+  color: #5F5F5F;
   font-weight: 400;
   white-space: nowrap;
 }
@@ -87,6 +87,7 @@ article {
 /* Header */
 
 header {
+  background-color: orange;
   position: relative;
   width: 35%;
   background-repeat: no-repeat;
@@ -95,8 +96,6 @@ header {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  -webkit-filter: grayscale(1);
-  filter: grayscale(1);
   overflow: hidden;
 }
 
@@ -237,14 +236,14 @@ header ul.meta li span {
     right: 10px;
     bottom: 10px;
     left: 10px;
-  }  
+  }
 }
 
 @media screen and (max-width: 960px){
   .pagination {
     margin-top: 40px;
     padding: 0 10px;
-  }  
+  }
 }
 
 .pagination:after {
@@ -285,8 +284,8 @@ header ul.meta li span {
 /* Article */
 
 article {
-  width: 65%;
   overflow-x: hidden;
+  width: 65%;
 }
 
 
@@ -321,7 +320,7 @@ article li {
 }
 
 article a {
-  color: #CE2323;
+  color: #FFA500;
   text-decoration: none;
 }
 
