@@ -1,9 +1,13 @@
 # Site settings
-title: 'caffeinatedmoo.se' # Your Title
-tagline: 'well-crafted code and other moose topics' # A brief tagline for your site
+title: 'the mooseleer' # Your Title
+tagline: 'just a moose trying not to get podded' # A brief tagline for your site
 permalink: none
 
 
 # Build settings
 markdown: redcarpet
 highlighter: pygments
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
